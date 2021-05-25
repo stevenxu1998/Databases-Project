@@ -1,7 +1,6 @@
 # Databases-Project
 ## Description
-Written purely in SQL
-Creates an sql hr, invoicing, store, and inventory database with each database consisting of multiple tables and also contains a bunch of SQL queries for the set of databases
+This project is written purely in SQL which creates an sql hr, invoicing, store, and inventory database with each database consisting of multiple tables and also contains a bunch of SQL queries for the set of databases
 ## Repository Structure
 The Repository Directory Structure consists of these elements
 - "create-databases.sql" file which creates all 4 databases (hr, invoicing, store, and inventory) in 1 run 
